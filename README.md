@@ -9,7 +9,8 @@
 
 </div>
 
-I'm an **AI Security Engineer & SOC Specialist** who builds tools to solve real security problems. I combine hands-on SOC experience (alert triage, log analysis, incident investigation) with practical AI engineering to create systems that help security teams work smarter.
+**AI Security Engineer** | Self-taught developer building practical AI security tools | IBM Certified .
+I builds tools to solve real security problems. I combine hands-on SOC experience (alert triage, log analysis, incident investigation) with practical AI engineering to create systems that help security teams work smarter.
 
 I don't just learn—I **build, deploy, and document**.
 

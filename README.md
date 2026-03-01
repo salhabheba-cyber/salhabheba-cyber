@@ -1,40 +1,85 @@
-## 👋 Hi, I’m Heba
+## 👋 Hi, I'm Heba Salhab
 
- SOC-focused cybersecurity learner with hands-on experience in log analysis, alert triage, and defensive security labs.
+<div align="center">
+  
+[![AI Security Engineer](https://img.shields.io/badge/AI-Security%20Engineer-purple?style=flat&logo=artificial-intelligence)](https://github.com/salhabheba-cyber)
+[![IBM Certified](https://img.shields.io/badge/IBM-Cybersecurity%20Analyst-blue?style=flat&logo=ibm)]()
+[![Remote Ready](https://img.shields.io/badge/🌍-Remote%20Global%20Ready-green?style=flat)]()
+[![Beirut, Lebanon](https://img.shields.io/badge/📍-Beirut%2C%20Lebanon-lightgrey?style=flat)]()
 
----
+</div>
 
-###  What I’m currently doing
-- Practicing SOC Level 1 workflows (alert triage, escalation, reporting)
-- Analyzing logs and security events using structured methodologies
-- Building documented walkthroughs from TryHackMe labs
-- Preparing for a SOC analyst role while growing toward ethical hacking
+I'm an **AI Security Engineer & SOC Specialist** who builds tools to solve real security problems. I combine hands-on SOC experience (alert triage, log analysis, incident investigation) with practical AI engineering to create systems that help security teams work smarter.
 
----
-
-###  Skills & Interests
-- SOC Operations & Alert Triage
-- Log Analysis & Incident Investigation
-- SIEM fundamentals (Splunk – in progress)
-- Linux fundamentals for security analysts
-- Threat analysis & attacker mindset
+I don't just learn—I **build, deploy, and document**.
 
 ---
 
-###  Hands-on Practice
--  TryHackMe: SOC L1 Alert Triage, Log Operations, Junior Security Analyst Intro
--  GitHub: Documented walkthroughs and investigation notes
+## 🏆 Featured Project: AI-PhishDetect 2026
+
+**What it does:** A zero-shot phishing detector that identifies AI-generated scams with **87.3% accuracy** – solving the #1 threat of 2026.
+
+- ✅ **Live Demo:** [Test it on Hugging Face](https://huggingface.co/spaces/HEBA-cyber/Ai-phishing-detecting)
+- ✅ **Tech Stack:** Python, Transformers, Gradio, Google Colab
+- ✅ **Documentation:** Professional README, metadata, MITRE mapping
 
 ---
 
-###  Goals
-- Short-term: Land a SOC / Blue Team role
-- Long-term: Advance toward ethical hacking and deeper threat research
+## 🔍 Featured Project: HEBINT OSINT Tool
+
+**What it does:** Searches **150+ platforms** (Facebook, Instagram, LinkedIn, GitHub, etc.) for usernames—including **unique Arabic platform support**.
+
+- ✅ **Key Feature:** Always-visible Facebook search links
+- ✅ **Tech Stack:** Python, Requests, Concurrent Futures, Colorama
+- ✅ **Documentation:** Complete commands guide, screenshots
 
 ---
 
-###  How to reach me
--  LinkedIn: https://www.linkedin.com/in/hiba-salhab-8a3825148
--  Email: salhabbeba87@gmail.com
--  TryHackMe: https://tryhackme.com/p/thedarksideofu
--  GitHub: https://github.com/salhabheba-cyber
+## 🛠️ Current Focus: Project Nyx
+
+Building an **autonomous AI red teaming system** using LangChain/LangGraph that discovers and exploits vulnerabilities automatically.
+
+---
+
+## 💡 Technical Skills
+
+AI/ML: Zero-shot Learning, Transformers, Hugging Face, LangChain (learning)
+Security: Phishing Detection, SOC Operations, Alert Triage, Log Analysis, MITRE ATT&CK
+OSINT: Username Search, Arabic Platform Analysis, Digital Footprint Investigation
+Tools: Python, Gradio, Git, Kali Linux, Wazuh, Splunk, Hugging Face Spaces
+
+---
+
+## 🎯 What I'm Looking For
+
+**Short-term:** A remote **AI Security Engineer**, **SOC Analyst**, or **Security Researcher** role where I can contribute immediately.
+
+**Long-term:** To specialize in **AI-powered security automation** and threat research.
+
+---
+
+
+### 🌍 Remote Ready
+
+Based in **Beirut, Lebanon** (GMT+2),💼 **Open to remote opportunities worldwide** | Available for virtual interviews | CET/EST time zone compatible
+
+| **Location** | Beirut, Lebanon (GMT+2) |
+| **Time Zones** | Available during CET, EST working hours |
+| **Communication** | English (fluent), Arabic (native) |
+| **Payment** | Flexible arrangements available |
+| **Tools** | Slack, Discord, Zoom, Teams, Jira |
+| **Experience** | 2+ years working remotely on projects |
+
+
+## 🎯 Goals
+
+- **Short-term:** Land a **remote SOC Analyst / AI Security Engineer** role with a global team
+- **Long-term:** Advance into **AI-powered security automation** while working virtually
+- **Ready to start:** Immediately (virtual onboarding, remote collaboration tools)
+
+## 📫 How to Reach Me 
+
+- 📧 **Email:** salhabbeba87@gmail.com
+- 🔗 **LinkedIn:** [linkedin.com/in/hiba-salhab-8a3825148](https://www.linkedin.com/in/hiba-salhab-8a3825148)
+- 🐙 **GitHub:** [github.com/salhabheba-cyber](https://github.com/salhabheba-cyber)
+- 🤗 **Hugging Face:** [huggingface.co/HEBA-cyber](https://huggingface.co/HEBA-cyber)

@@ -2,17 +2,20 @@
 
 <div align="center">
   
-[![AI Security Engineer](https://img.shields.io/badge/AI-Security%20Engineer-purple?style=flat&logo=artificial-intelligence)](https://github.com/salhabheba-cyber)
-[![IBM Certified](https://img.shields.io/badge/IBM-Cybersecurity%20Analyst-blue?style=flat&logo=ibm)]()
-[![Remote Ready](https://img.shields.io/badge/🌍-Remote%20Global%20Ready-green?style=flat)]()
-[![Beirut, Lebanon](https://img.shields.io/badge/📍-Beirut%2C%20Lebanon-lightgrey?style=flat)]()
+[![AI Security Engineer](https://img.shields.io/badge/AI-Security%20Engineer-purple?style=for-the-badge&logo=artificial-intelligence)]()
+[![Self-Taught](https://img.shields.io/badge/📚-Self%20Taught-orange?style=for-the-badge)]()
+[![IBM Certified](https://img.shields.io/badge/IBM-Cybersecurity%20Analyst-blue?style=for-the-badge)]()
+[![Remote Ready](https://img.shields.io/badge/🌍-Remote%20Ready-green?style=for-the-badge)]()
 
 </div>
 
-**AI Security Engineer** | Self-taught developer building practical AI security tools | IBM Certified .
-I builds tools to solve real security problems. I combine hands-on SOC experience (alert triage, log analysis, incident investigation) with practical AI engineering to create systems that help security teams work smarter.
+I'm a **self-taught AI Security Engineer** who turned curiosity into code. Starting from zero, I built:
+- 🤖 **AI-PhishDetect 2026** - 87.3% accuracy phishing detection
+- 🔍 **HEBINT** - OSINT tool searching 150+ platforms
 
-I don't just learn—I **build, deploy, and document**.
+No CS degree. No bootcamp. Just determination.
+
+**My learning philosophy:** Build first, learn deeper, repeat.
 
 ---
 
@@ -36,11 +39,6 @@ I don't just learn—I **build, deploy, and document**.
 
 ---
 
-## 🛠️ Current Focus: Project Nyx
-
-Building an **autonomous AI red teaming system** using LangChain/LangGraph that discovers and exploits vulnerabilities automatically.
-
----
 
 ## 💡 Technical Skills
 

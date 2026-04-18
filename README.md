@@ -1,84 +1,49 @@
-## 👋 Hi, I'm Heba Salhab
-
 <div align="center">
-  
-[![AI Security Engineer](https://img.shields.io/badge/AI-Security%20Engineer-purple?style=for-the-badge&logo=artificial-intelligence)]()
-[![Self-Taught](https://img.shields.io/badge/📚-Self%20Taught-orange?style=for-the-badge)]()
-[![IBM Certified](https://img.shields.io/badge/IBM-Cybersecurity%20Analyst-blue?style=for-the-badge)]()
-[![Remote Ready](https://img.shields.io/badge/🌍-Remote%20Ready-green?style=for-the-badge)]()
-
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=2E8B57&center=true&vCenter=true&width=435&lines=AI+Security+Engineer;SOC+Automation+Specialist;Python+%7C+SIEM+%7C+AWS+%7C+OSINT" alt="Typing SVG" />
 </div>
 
-I'm a **self-taught AI Security Engineer** who turned curiosity into code. Starting from zero, I built:
-- 🤖 **AI-PhishDetect 2026** - 87.3% accuracy phishing detection
-- 🔍 **HEBINT** - OSINT tool searching 150+ platforms
+# 👋 Hi, I'm Heba Salhab
 
-No CS degree. No bootcamp. Just determination.
+I'm a **Cybersecurity Automation Engineer** with a unique journey from interior design to building 7 production-ready security tools. I don't just configure; I **build, automate, and deploy**.
 
-**My learning philosophy:** Build first, learn deeper, repeat.
+📍 **Based in Beirut, Lebanon** | 🌍 **Open for Remote Work Worldwide**
 
----
-
-## 🏆 Featured Project: AI-PhishDetect 2026
-
-**What it does:** A zero-shot phishing detector that identifies AI-generated scams with **87.3% accuracy** – solving the #1 threat of 2026.
-
-- ✅ **Live Demo:** [Test it on Hugging Face](https://huggingface.co/spaces/HEBA-cyber/Ai-phishing-detecting)
-- ✅ **Tech Stack:** Python, Transformers, Gradio, Google Colab
-- ✅ **Documentation:** Professional README, metadata, MITRE mapping
+[![GitHub](https://img.shields.io/badge/GitHub-salhabheba--cyber-181717?logo=github)](https://github.com/salhabheba-cyber)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-blue?logo=linkedin)](https://www.linkedin.com/in/hiba-salhab-8a3825148)
+[![Hugging Face](https://img.shields.io/badge/🤗-Live%20Demo-yellow)](https://huggingface.co/spaces/HEBA-cyber/Ai-phishing-detecting)
+[![Email](https://img.shields.io/badge/Email-salhabbeba87@gmail.com-red?logo=gmail)](mailto:salhabbeba87@gmail.com)
 
 ---
 
-## 🔍 Featured Project: HEBINT OSINT Tool
+## 🛠️ Featured Projects
 
-**What it does:** Searches **150+ platforms** (Facebook, Instagram, LinkedIn, GitHub, etc.) for usernames—including **unique Arabic platform support**.
-
-- ✅ **Key Feature:** Always-visible Facebook search links
-- ✅ **Tech Stack:** Python, Requests, Concurrent Futures, Colorama
-- ✅ **Documentation:** Complete commands guide, screenshots
-
----
-
-
-## 💡 Technical Skills
-
-AI/ML: Zero-shot Learning, Transformers, Hugging Face, LangChain (learning)
-Security: Phishing Detection, SOC Operations, Alert Triage, Log Analysis, MITRE ATT&CK
-OSINT: Username Search, Arabic Platform Analysis, Digital Footprint Investigation
-Tools: Python, Gradio, Git, Kali Linux, Wazuh, Splunk, Hugging Face Spaces
+| Project | Description | Tech Stack | Links |
+| :--- | :--- | :--- | :--- |
+| **CloudShield** | Zero-trust access control platform for AWS S3. | `Python`, `Boto3`, `AWS IAM`, `Streamlit` | [Repo](https://github.com/salhabheba-cyber/CloudShield) |
+| **AI-PhishDetect** | Zero-shot LLM phishing detection (87.3% accuracy). | `Python`, `Hugging Face`, `Gradio` | [Repo](https://github.com/salhabheba-cyber/AI-Phishing-Detector) \| [Demo](https://huggingface.co/spaces/HEBA-cyber/Ai-phishing-detecting) |
+| **EDR-Hunter-Pro** | AI-powered EDR with real-time anomaly detection & Telegram alerts. | `Python`, `Scikit-learn`, `Streamlit`, `Telegram API` | [Repo](https://github.com/salhabheba-cyber/EDR-Hunter-Pro) |
+| **SOC-Sentinel** | SIEM lab for threat detection and incident response. | `Wazuh`, `Docker`, `Elasticsearch`, `Kibana` | [Repo](https://github.com/salhabheba-cyber/SOC-Sentinel) |
+| **IDS-Defender** | Network intrusion detection with Snort/Suricata. | `Snort`, `Suricata`, `Kali Linux`, `Python` | [Repo](https://github.com/salhabheba-cyber/IDS-Defender) |
+| **HEBINT-OSINT** | OSINT tool searching 150+ platforms with Arabic support. | `Python`, `Concurrent Futures`, `Colorama` | [Repo](https://github.com/salhabheba-cyber/hebint-osint-tool) |
+| **SOAR-Agent** | Security orchestration & automation with playbooks. | `Python`, `n8n`, `REST APIs`, `Docker` | [Repo](https://github.com/salhabheba-cyber/SOAR-Agent) |
 
 ---
 
-## 🎯 What I'm Looking For
+## 💡 Core Competencies
 
-**Short-term:** A remote **AI Security Engineer**, **SOC Analyst**, or **Security Researcher** role where I can contribute immediately.
-
-**Long-term:** To specialize in **AI-powered security automation** and threat research.
+```text
+Automation:     Python, REST APIs, n8n, Docker
+SIEM/SOAR:      Wazuh, Elasticsearch, Kibana, Playbooks
+Cloud:          AWS (IAM, S3), Zero-Trust Architecture
+Network:        Snort, Suricata, Wireshark, IDS/IPS
+AI/ML:          Anomaly Detection (Isolation Forest), LLMs (Hugging Face)
+OSINT:          Phone, Email, Username, Arabic Platforms
+```
 
 ---
 
+## 🎯 Currently Seeking
 
-### 🌍 Remote Ready
-
-Based in **Beirut, Lebanon** (GMT+2),💼 **Open to remote opportunities worldwide** | Available for virtual interviews | CET/EST time zone compatible
-
-| **Location** | Beirut, Lebanon (GMT+2) |
-| **Time Zones** | Available during CET, EST working hours |
-| **Communication** | English (fluent), Arabic (native) |
-| **Payment** | Flexible arrangements available |
-| **Tools** | Slack, Discord, Zoom, Teams, Jira |
-| **Experience** | 2+ years working remotely on projects |
-
-
-## 🎯 Goals
-
-- **Short-term:** Land a **remote SOC Analyst / AI Security Engineer** role with a global team
-- **Long-term:** Advance into **AI-powered security automation** while working virtually
-- **Ready to start:** Immediately (virtual onboarding, remote collaboration tools)
-
-## 📫 How to Reach Me 
-
-- 📧 **Email:** salhabbeba87@gmail.com
-- 🔗 **LinkedIn:** [linkedin.com/in/hiba-salhab-8a3825148](https://www.linkedin.com/in/hiba-salhab-8a3825148)
-- 🐙 **GitHub:** [github.com/salhabheba-cyber](https://github.com/salhabheba-cyber)
-- 🤗 **Hugging Face:** [huggingface.co/HEBA-cyber](https://huggingface.co/HEBA-cyber)
+**Roles:** AI Security Engineer, SOC Automation Engineer, Security Researcher
+**Location:** Remote (Global)
+**Availability:** Immediate

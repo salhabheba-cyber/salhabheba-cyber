@@ -1,6 +1,7 @@
 <div align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=2E8B57&center=true&vCenter=true&width=435&lines=AI+Security+Engineer;SOC+Automation+Specialist;Python+%7C+SIEM+%7C+AWS+%7C+OSINT" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=2E8B57&center=true&vCenter=true&width=500&lines=Cybersecurity+Engineer;AWS+Security+%7C+SOC+%7C+AI+Automation;Python+%7C+SIEM+%7C+LLMs+%7C+Threat+Detection" alt="Typing SVG" />
 </div>
+
 
 # 👋 Hi, I'm Heba Salhab
 

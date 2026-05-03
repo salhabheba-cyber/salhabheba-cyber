@@ -2,10 +2,22 @@
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=2E8B57&center=true&vCenter=true&width=500&lines=Cybersecurity+Engineer;AWS+Security+%7C+SOC+%7C+AI+Automation;Python+%7C+SIEM+%7C+LLMs+%7C+Threat+Detection" alt="Typing SVG" />
 </div>
 
+I am a Cybersecurity Engineer specializing in integrating AI with cloud security (AWS) and SOC operations. I build automated security tools that detect and stop threats in real time.
 
-# 👋 Hi, I'm Heba Salhab
+What I deliver:
 
-I'm a **Cybersecurity Automation Engineer** with a unique journey from interior design to building 7 production-ready security tools. I don't just configure; I **build, automate, and deploy**.
+🔐 AWS Security: IAM least privilege, MFA, 3-tier VPC with Security Groups & NACLs, GuardDuty, CloudTrail
+
+🤖 AI for Security: LLM-based phishing detection, anomaly detection (Isolation Forest)
+
+🚨 SOC Operations: SIEM (Wazuh, Elasticsearch), IDS/IPS (Snort, Suricata), log analysis, threat hunting
+
+⚙️ Automation (SOAR): Python, Lambda, n8n, Docker, GitHub Actions
+
+📍 Based in Beirut, Lebanon | Fluent in English & French | Open for remote work worldwide
+
+
+
 
 📍 **Based in Beirut, Lebanon** | 🌍 **Open for Remote Work Worldwide**
 

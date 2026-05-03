@@ -27,8 +27,8 @@ What I deliver:
 
 | Project | Key Focus | Tech Stack | Links |
 | :--- | :--- | :--- | :--- |
-| **AWS Security Lab 1: IAM Governance** | Complete IAM system with MFA enforcement, least privilege policies, CloudTrail auditing, and SNS alerts. | `AWS IAM` `CloudTrail` `SNS` `MFA` `Least Privilege` | [Repo](https://github.com/salhabheba-cyber/aws-security-lab-1-iam-governance) |
-| **AWS Security Lab 2: Network Security** | Production-ready 3-tier VPC with public/private subnets, Security Groups, NACLs (defense in depth), VPC Flow Logs, and GuardDuty. | `AWS VPC` `Security Groups` `NACLs` `GuardDuty` `Flow Logs` | [Repo](https://github.com/salhabheba-cyber/aws-security-lab-2-network) |
+| **AWS Security Lab : IAM Governance** | Complete IAM system with MFA enforcement, least privilege policies, CloudTrail auditing, and SNS alerts. | `AWS IAM` `CloudTrail` `SNS` `MFA` `Least Privilege` | [Repo](https://github.com/salhabheba-cyber/aws-security-lab-1-iam-governance) |
+| **AWS Security Lab : Network Security** | Production-ready 3-tier VPC with public/private subnets, Security Groups, NACLs (defense in depth), VPC Flow Logs, and GuardDuty. | `AWS VPC` `Security Groups` `NACLs` `GuardDuty` `Flow Logs` | [Repo](https://github.com/salhabheba-cyber/aws-security-lab-2-network) |
 | **CloudShield** | Zero-trust IAM policy automation for AWS S3, enforcing least privilege. | `Python` `Boto3` `AWS IAM` `Streamlit` | [Repo](https://github.com/salhabheba-cyber/CloudShield) |
 | **AI-PhishDetect** | Zero-shot LLM phishing detection (87.3% accuracy) to identify AI-generated scams. | `Python` `Hugging Face` `Gradio` | [Repo](https://github.com/salhabheba-cyber/AI-Phishing-Detector) \| [Demo](https://huggingface.co/spaces/HEBA-cyber/Ai-phishing-detecting) |
 | **EDR-Hunter-Pro** | AI-powered EDR with real-time anomaly detection (Isolation Forest) & Telegram alerts. | `Python` `Scikit-learn` `Streamlit` `Telegram API` | [Repo](https://github.com/salhabheba-cyber/EDR-Hunter-Pro) |
